@@ -1,5 +1,5 @@
 # SimpleLinearRegression
-Simple Linear Revariablesgression is a statistical method used to model the relationship between two continuous . It aims to predict the value of a dependent variable (Y) based on the value of an independent variable (X).
+Simple Linear Regression is a statistical method used to train the model relationship between two continuous . It aims to predict the value of a dependent variable (Y) based on the value of an independent variable (X).
 
 Key Components:
 Dependent Variable (Y): The outcome or the variable you want to predict.
